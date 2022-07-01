@@ -79,12 +79,12 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "WORK TYPE public or private | ,
+            "description": "WORK TYPE public or private |" ,
             "required": true,
             "value": "private"
         },       
         "DEBUG": {
-            "description": "ඔබ මෙය නොදන්නේ නම්. එය අත්හරින්න.",
+            "description": "k",
             "required": true,
             "value": "false"
         },
